@@ -1,0 +1,30 @@
+* {
+    font-family: Arial, sans-serif;
+    font-family: 'Fira Code', monospace;
+    font-family: 'Press Start 2P', cursive;
+    font-family: 'Righteous', cursive;
+}
+
+nav {
+    font-family: Fira Code;
+    font-size: 15px;
+}
+
+div a {
+    color: black;
+    background-color: blueviolet;
+}
+
+div h1 {
+    font-family: Fira Code;
+    font-size: 15px;
+    background-size: contain;
+    background-color: blueviolet;
+}
+
+h2 {
+    font-family: Fira Code;
+    font-size: 15px;
+    background-size: contain;
+    background-color: yellow;
+}
